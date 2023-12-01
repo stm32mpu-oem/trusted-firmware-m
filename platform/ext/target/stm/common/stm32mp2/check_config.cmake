@@ -1,0 +1,5 @@
+tfm_invalid_config(NOT DEFINED STM_BOARD_DIR)
+tfm_invalid_config(NOT DEFINED STM_DIR)
+tfm_invalid_config(NOT DEFINED STM_COMMON_DIR)
+tfm_invalid_config(NOT DEFINED STM_SOC_DIR)
+tfm_invalid_config(NOT DEFINED STM_DEVICETREE_DIR)
